@@ -1,0 +1,28 @@
+body {
+    font-family: 'Lato';
+}
+.fa-btn {
+    margin-right: 6px;
+}
+.btn {
+    min-width:100px;
+}
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.search{
+    border: 1px solid #e0e0e0;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+.nav-link{
+    padding: 0;
+}
+[data-letters][data-type="profile"]:before {
+    background:	#55C1E7;
+}
+.navbar-expand-md .navbar-nav .dropdown-menu {
+    position: absolute !important;
+}
